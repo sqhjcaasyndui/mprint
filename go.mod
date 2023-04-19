@@ -1,4 +1,4 @@
-module github.com/sqhjcaasyndui/generate-model
+module Mprint
 
 go 1.18
 
