@@ -1,4 +1,4 @@
-module Mprint
+module github.com/sqhjcaasyndui/mprint
 
 go 1.18
 

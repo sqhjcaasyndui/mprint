@@ -1,4 +1,4 @@
-package Mprint
+package mprint
 
 import (
 	"fmt"
